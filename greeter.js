@@ -1,0 +1,5 @@
+function Greeter () {
+    function hello (){
+        
+    }
+}
